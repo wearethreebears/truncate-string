@@ -10,7 +10,7 @@ The helper comes with 3 methods:
     /**/
   }
   
-  fromMiddle(string, charCount, ellips = '...') {
+  fromMiddle(string, charCount, ellips = '[...]') {
     /**/
   }
 ```
